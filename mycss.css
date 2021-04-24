@@ -69,7 +69,7 @@ p{
       background-size: 250% 100%;
       background-position: 100% 50%;
   
-      transition: 0.5s all;
+      transition: 0.5s background;
     font-weight: bolder;
     border: 0.5vh solid black;
     cursor: pointer;
